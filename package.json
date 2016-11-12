@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_example",
+  "version": "1.0.0",
+  "description": "Some example for personal reference",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttpro1995/nodejs_example.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Thai Thien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttpro1995/nodejs_example/issues"
+  },
+  "homepage": "https://github.com/ttpro1995/nodejs_example#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  }
+}
